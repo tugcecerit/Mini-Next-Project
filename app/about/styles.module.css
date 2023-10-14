@@ -1,0 +1,30 @@
+.main {
+    height: 100vh;
+    width: 100vw;
+    display: grid;
+    place-content: center;
+}
+
+.about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10rem;
+    text-justify: auto;
+    text-align: justify;
+    color: rgb(98, 97, 97);
+}
+
+.abouth1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 48px;
+    font-weight: bold;
+    padding: 0 0 1rem 0;
+    color: slategray;
+}
+
+.aboutdiv {
+    padding-top: 5rem 0;
+}

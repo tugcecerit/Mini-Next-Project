@@ -1,0 +1,19 @@
+.main {
+    padding: 5rem;
+    display: grid;
+    place-content: center;
+}
+
+.user {
+    padding: 0 10rem;
+    color: rgb(98, 97, 97);
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.userh1 {
+    padding: 0 10rem;
+    font-size: 48px;
+    font-weight: bold;
+    color: slategray;
+}

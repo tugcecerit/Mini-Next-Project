@@ -1,0 +1,18 @@
+.main {
+    padding: 5rem;
+    display: grid;
+    place-content: center;
+}
+
+.album {
+    padding: 0 10rem;
+    color: rgb(98, 97, 97);
+    font-weight: 500;
+}
+
+.albumh1 {
+    padding: 0 10rem;
+    font-size: 48px;
+    font-weight: bold;
+    color: slategray;
+}
